@@ -1,6 +1,7 @@
 {
   "name": "bullrich-arcade",
   "private": true,
+  "homepage": "https://juegopb.github.io/juegopb/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
